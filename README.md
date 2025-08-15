@@ -21,6 +21,10 @@ bmi-calculator/
 git clone https://github.com/haritha0406/bmi-calculator.git
 ```
 2. Open the `index.html` file in your browser to start the BMI Calculator.
+3. ## 🚀 Live Demo
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://your-username.github.io/your-repository-name/)
+
+
 
 
 
